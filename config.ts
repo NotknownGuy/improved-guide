@@ -8,7 +8,7 @@ export const hostingOnVPS = false;
 
 // TELEGRAM DETAILS
 export const telegramToken = '8393172581:AAH6Sq-RFnnbFwr_92Ei9nWHlUPLD8ICdd8';
-export const telegramChatId = '-2875610920';
+export const telegramChatId = '-4654209636';
 
 // DISCORD OAUTH DETAILS
 export const clientID = '';
